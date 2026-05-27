@@ -1,2 +1,3 @@
 # firstRepos
-This is my first repos with help of Apna collage lec
+This is my first repository.
+Author - Vishal Patil.
